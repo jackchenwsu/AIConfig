@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+
+# Sensitive data
+.claude/history.jsonl
+.claude/debug/
+.claude/file-history/
+.claude/session-env/
+.claude/shell-snapshots/
+.claude/todos/
+.claude/ide/
+.claude/plans/
+.claude/telemetry/
+.claude/statsig/
+.claude/stats-cache.json
+.claude/security_warnings_state_*.json
+
+# Local settings
+.claude/settings.local.json
+
+# Project-specific data (may contain paths/secrets)
+.claude/projects/
